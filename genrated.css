@@ -1,0 +1,33 @@
+.generated_wrapper_main{
+/* background-color: aquamarine; */
+width: 100%;
+height: 100%;
+}
+.generated_wrapper{
+    /* background-color: rgb(255, 106, 0); */
+    margin: 5px;
+    display: flex;
+    justify-content:space-between ;
+    align-items: start;
+    padding: 20px;
+    height: 100%;
+}
+.generated_code_wrapper{
+    display: flex;
+    width: 80%;
+    background-color: rgb(179, 221, 237);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.generated_button_wrapper{
+/* background-color: blue; */
+width: 19%;
+display: flex;
+justify-content: center;
+align-items: center;
+/* height: 100%; */
+/* height: 200px; */
+}
